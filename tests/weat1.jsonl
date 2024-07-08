@@ -24,9 +24,7 @@
       "violeta",
       "clavel",
       "gladiolo",
-      "magnolia",
-      "petunia",
-      "cinia"
+      "magnolia"
     ]
   },
   "targ2": {
@@ -45,7 +43,6 @@
       "abeja",
       "cucaracha",
       "mosquito",
-      "mosquito",
       "termita",
       "escarabajo",
       "grillo",
@@ -55,7 +52,6 @@
       "mosca negra",
       "libélula",
       "tábanos",
-      "cucaracha",
       "gorgojo"
     ]
   },
