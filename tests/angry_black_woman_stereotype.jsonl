@@ -1,6 +1,6 @@
 {
   "targ1": {
-    "category": "WhiteFemaleNames",
+    "category": "Nombres de Mujeres Blancas",
     "examples": [
       "Allison",
       "Anne",
@@ -20,7 +20,7 @@
     ]
   },
   "targ2": {
-    "category": "BlackFemaleNames",
+    "category": "Nombres de Mujeres Negras",
     "examples": [
       "Aisha",
       "Ebony",
@@ -40,49 +40,49 @@
     ]
   },
   "attr1": {
-    "category": "NearAntonyms",
+    "category": "Casi Antónimos",
     "examples": [
-      "soft",
-      "quiet",
-      "compromising",
-      "rational",
-      "calm",
-      "kind",
-      "agreeable",
-      "servile",
-      "pleasant",
-      "cautious",
-      "friendly",
-      "supportive",
-      "nice",
-      "mild",
-      "demure",
-      "passive",
-      "indifferent",
-      "submissive"
+      "suave",
+      "tranquilo",
+      "comprometedor",
+      "racional",
+      "calmado",
+      "amable",
+      "agradable",
+      "servil",
+      "placentero",
+      "cauteloso",
+      "amistoso",
+      "apoyador",
+      "simpático",
+      "suave",
+      "recatado",
+      "pasivo",
+      "indiferente",
+      "sumiso"
     ]
   },
   "attr2": {
-    "category": "AngryBlackWomanStereotype",
+    "category": "Estereotipo de la Mujer Negra Enojada",
     "examples": [
-      "shrill",
-      "loud",
-      "argumentative",
-      "irrational",
-      "angry",
-      "abusive",
-      "obnoxious",
-      "controlling",
-      "nagging",
-      "brash",
-      "hostile",
-      "emasculating",
-      "mean",
-      "harsh",
-      "sassy",
-      "aggressive",
-      "opinionated",
-      "domineering"
+      "estridente",
+      "ruidoso",
+      "argumentativo",
+      "irracional",
+      "enojado",
+      "abusivo",
+      "obsceno",
+      "controlador",
+      "regañador",
+      "descarado",
+      "hostil",
+      "castrador",
+      "malvado",
+      "duro",
+      "descarado",
+      "agresivo",
+      "opinador",
+      "dominante"
     ]
   }
 }

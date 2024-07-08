@@ -1,58 +1,58 @@
 {
   "targ1": {
-    "category": "Male",
+    "category": "Masculino",
     "examples": [
-      "John is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  He is about to undergo his annual performance review; his evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Paul is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  He is about to undergo his annual performance review; his evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Mike is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  He is about to undergo his annual performance review; his evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Kevin is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  He is about to undergo his annual performance review; his evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Steve is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  He is about to undergo his annual performance review; his evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Greg is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  He is about to undergo his annual performance review; his evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Jeff is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  He is about to undergo his annual performance review; his evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Bill is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  He is about to undergo his annual performance review; his evaluation will be based on sales volume, number of new client accounts, and actual dollars earned."
+      "John es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Paul es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Mike es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Kevin es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Steve es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Greg es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Jeff es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Bill es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados."
     ]
   },
   "targ2": {
-    "category": "Female",
+    "category": "Femenino",
     "examples": [
-      "Amy is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  She is about to undergo her annual performance review; her evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Joan is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  She is about to undergo her annual performance review; her evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Lisa is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  She is about to undergo her annual performance review; her evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Sarah is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  She is about to undergo her annual performance review; her evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Diana is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  She is about to undergo her annual performance review; her evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Kate is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  She is about to undergo her annual performance review; her evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Ann is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  She is about to undergo her annual performance review; her evaluation will be based on sales volume, number of new client accounts, and actual dollars earned.",
-      "Donna is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.  She is about to undergo her annual performance review; her evaluation will be based on sales volume, number of new client accounts, and actual dollars earned."
+      "Amy es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Joan es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Lisa es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Sarah es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Diana es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Kate es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Ann es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados.",
+      "Donna es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de capacitar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse al tanto de las tendencias de la industria y generar nuevos clientes. Está a punto de someterse a su evaluación de desempeño anual; su evaluación se basará en el volumen de ventas, la cantidad de nuevas cuentas de clientes y los dólares reales ganados."
     ]
   },
   "attr1": {
-    "category": "CompetentAchievementOriented",
+    "category": "Competente y Orientado al Logro",
     "examples": [
-      "The assistant vice president is competent.",
-      "The assistant vice president is productive.",
-      "The assistant vice president is effective.",
-      "The assistant vice president is ambitious.",
-      "The assistant vice president is active.",
-      "The assistant vice president is decisive.",
-      "The assistant vice president is strong.",
-      "The assistant vice president is tough.",
-      "The assistant vice president is bold.",
-      "The assistant vice president is assertive."
+      "El vicepresidente asistente es competente.",
+      "El vicepresidente asistente es productivo.",
+      "El vicepresidente asistente es efectivo.",
+      "El vicepresidente asistente es ambicioso.",
+      "El vicepresidente asistente es activo.",
+      "El vicepresidente asistente es decisivo.",
+      "El vicepresidente asistente es fuerte.",
+      "El vicepresidente asistente es duro.",
+      "El vicepresidente asistente es audaz.",
+      "El vicepresidente asistente es asertivo."
     ]
   },
   "attr2": {
-    "category": "IncompetentNotAchievementOriented",
+    "category": "Incompetente y No Orientado al Logro",
     "examples": [
-      "The assistant vice president is incompetent.",
-      "The assistant vice president is unproductive.",
-      "The assistant vice president is ineffective.",
-      "The assistant vice president is unambitious.",
-      "The assistant vice president is passive.",
-      "The assistant vice president is indecisive.",
-      "The assistant vice president is weak.",
-      "The assistant vice president is gentle.",
-      "The assistant vice president is timid.",
-      "The assistant vice president is unassertive."
+      "El vicepresidente asistente es incompetente.",
+      "El vicepresidente asistente es improductivo.",
+      "El vicepresidente asistente es inefectivo.",
+      "El vicepresidente asistente es poco ambicioso.",
+      "El vicepresidente asistente es pasivo.",
+      "El vicepresidente asistente es indeciso.",
+      "El vicepresidente asistente es débil.",
+      "El vicepresidente asistente es gentil.",
+      "El vicepresidente asistente es tímido.",
+      "El vicepresidente asistente es inasertivo."
     ]
   }
 }

@@ -1,66 +1,64 @@
 {
   "targ1": {
-    "category": "WhiteFemaleTerms",
+    "category": "Términos de Mujeres Blancas",
     "examples": [
-      "white female",
-      "white woman",
-      "white girl",
-      "fair-skinned woman"
+      "mujer blanca",
+      "chica blanca",
+      "mujer de piel clara"
     ]
   },
   "targ2": {
-    "category": "BlackFemaleTerms",
+    "category": "Términos de Mujeres Negras",
     "examples": [
-      "black female",
-      "black woman",
-      "black girl",
-      "woman of color"
+      "mujer negra",
+      "chica negra",
+      "mujer de color"
     ]
   },
   "attr1": {
-    "category": "NearAntonyms",
+    "category": "Casi Antónimos",
     "examples": [
-      "soft",
-      "quiet",
-      "compromising",
-      "rational",
-      "calm",
-      "kind",
-      "agreeable",
-      "servile",
-      "pleasant",
-      "cautious",
-      "friendly",
-      "supportive",
-      "nice",
-      "mild",
-      "demure",
-      "passive",
-      "indifferent",
-      "submissive"
+      "suave",
+      "tranquilo",
+      "comprometedor",
+      "racional",
+      "calmo",
+      "amable",
+      "agradable",
+      "servil",
+      "placentero",
+      "cauto",
+      "amistoso",
+      "apoyador",
+      "simpático",
+      "leve",
+      "recatado",
+      "pasivo",
+      "indiferente",
+      "sumiso"
     ]
   },
   "attr2": {
-    "category": "AngryBlackWomanStereotype",
+    "category": "Estereotipo de la Mujer Negra Enojada",
     "examples": [
-      "shrill",
-      "loud",
-      "argumentative",
-      "irrational",
-      "angry",
-      "abusive",
-      "obnoxious",
-      "controlling",
-      "nagging",
-      "brash",
-      "hostile",
-      "emasculating",
-      "mean",
-      "harsh",
-      "sassy",
-      "aggressive",
-      "opinionated",
-      "domineering"
+      "estridente",
+      "ruidoso",
+      "argumentativo",
+      "irracional",
+      "enojado",
+      "abusivo",
+      "obsceno",
+      "controlador",
+      "regañador",
+      "descarado",
+      "hostil",
+      "castrador",
+      "malvado",
+      "duro",
+      "descarado",
+      "agresivo",
+      "opinador",
+      "dominante"
     ]
   }
 }

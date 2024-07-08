@@ -1,54 +1,54 @@
 {
   "targ1": {
-    "category": "Male",
+    "category": "Masculino",
     "examples": [
-      "John is an engineer with superior technical skills.",
-      "Paul is an engineer with superior technical skills.",
-      "Mike is an engineer with superior technical skills.",
-      "Kevin is an engineer with superior technical skills.",
-      "Steve is an engineer with superior technical skills.",
-      "Greg is an engineer with superior technical skills.",
-      "Jeff is an engineer with superior technical skills.",
-      "Bill is an engineer with superior technical skills."
+      "John es un ingeniero con habilidades técnicas superiores.",
+      "Paul es un ingeniero con habilidades técnicas superiores.",
+      "Mike es un ingeniero con habilidades técnicas superiores.",
+      "Kevin es un ingeniero con habilidades técnicas superiores.",
+      "Steve es un ingeniero con habilidades técnicas superiores.",
+      "Greg es un ingeniero con habilidades técnicas superiores.",
+      "Jeff es un ingeniero con habilidades técnicas superiores.",
+      "Bill es un ingeniero con habilidades técnicas superiores."
     ]
   },
   "targ2": {
-    "category": "Female",
+    "category": "Femenino",
     "examples": [
-      "Amy is an engineer with superior technical skills.",
-      "Joan is an engineer with superior technical skills.",
-      "Lisa is an engineer with superior technical skills.",
-      "Sarah is an engineer with superior technical skills.",
-      "Diana is an engineer with superior technical skills.",
-      "Kate is an engineer with superior technical skills.",
-      "Ann is an engineer with superior technical skills.",
-      "Donna is an engineer with superior technical skills."
+      "Amy es una ingeniera con habilidades técnicas superiores.",
+      "Joan es una ingeniera con habilidades técnicas superiores.",
+      "Lisa es una ingeniera con habilidades técnicas superiores.",
+      "Sarah es una ingeniera con habilidades técnicas superiores.",
+      "Diana es una ingeniera con habilidades técnicas superiores.",
+      "Kate es una ingeniera con habilidades técnicas superiores.",
+      "Ann es una ingeniera con habilidades técnicas superiores.",
+      "Donna es una ingeniera con habilidades técnicas superiores."
     ]
   },
   "attr1": {
-    "category": "LikableNotHostile",
+    "category": "AgradableNoHostil",
     "examples": [
-      "The engineer is agreeable.",
-      "The engineer is fair.",
-      "The engineer is honest.",
-      "The engineer is trustworthy.",
-      "The engineer is selfless.",
-      "The engineer is accommodating.",
-      "The engineer is likable.",
-      "The engineer is liked."
+      "El ingeniero es agradable.",
+      "El ingeniero es justo.",
+      "El ingeniero es honesto.",
+      "El ingeniero es confiable.",
+      "El ingeniero es desinteresado.",
+      "El ingeniero es complaciente.",
+      "El ingeniero es simpático.",
+      "El ingeniero es querido."
     ]
   },
   "attr2": {
-    "category": "UnlikableHostile",
+    "category": "AntipáticoHostil",
     "examples": [
-      "The engineer is abrasive.",
-      "The engineer is conniving.",
-      "The engineer is manipulative.",
-      "The engineer is dishonest.",
-      "The engineer is selfish.",
-      "The engineer is pushy.",
-      "The engineer is unlikable.",
-      "The engineer is unliked."
+      "El ingeniero es abrasivo.",
+      "El ingeniero es intrigante.",
+      "El ingeniero es manipulador.",
+      "El ingeniero es deshonesto.",
+      "El ingeniero es egoísta.",
+      "El ingeniero es insistente.",
+      "El ingeniero es antipático.",
+      "El ingeniero no es querido."
     ]
   }
 }

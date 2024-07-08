@@ -1,54 +1,54 @@
 {
   "targ1": {
-    "category": "Math",
+    "category": "Matemáticas",
     "examples": [
-      "math",
-      "algebra",
-      "geometry",
-      "calculus",
-      "equations",
-      "computation",
-      "numbers",
-      "addition"
+      "matemáticas",
+      "álgebra",
+      "geometría",
+      "cálculo",
+      "ecuaciones",
+      "computación",
+      "números",
+      "adición"
     ]
   },
   "targ2": {
-    "category": "Arts",
+    "category": "Artes",
     "examples": [
-      "poetry",
-      "art",
-      "dance",
-      "literature",
-      "novel",
-      "symphony",
+      "poesía",
+      "arte",
+      "danza",
+      "literatura",
+      "novela",
+      "sinfonía",
       "drama",
-      "sculpture"
+      "escultura"
     ]
   },
   "attr1": {
-    "category": "MaleTerms",
+    "category": "TérminosMasculinos",
     "examples": [
-      "male",
-      "man",
-      "boy",
-      "brother",
-      "he",
-      "him",
-      "his",
-      "son"
+      "masculino",
+      "hombre",
+      "niño",
+      "hermano",
+      "él",
+      "lo",
+      "su",
+      "hijo"
     ]
   },
   "attr2": {
-    "category": "FemaleTerms",
+    "category": "TérminosFemeninos",
     "examples": [
-      "female",
-      "woman",
-      "girl",
-      "sister",
-      "she",
-      "her",
-      "hers",
-      "daughter"
+      "femenino",
+      "mujer",
+      "niña",
+      "hermana",
+      "ella",
+      "la",
+      "suyo",
+      "hija"
     ]
   }
 }

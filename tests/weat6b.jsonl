@@ -1,54 +1,54 @@
 {
   "targ1": {
-    "category": "MaleTerms",
+    "category": "TérminosMasculinos",
     "examples": [
-      "male",
-      "man",
-      "boy",
-      "brother",
-      "he",
-      "him",
-      "his",
-      "son"
+      "masculino",
+      "hombre",
+      "niño",
+      "hermano",
+      "él",
+      "lo",
+      "su",
+      "hijo"
     ]
   },
   "targ2": {
-    "category": "FemaleTerms",
+    "category": "TérminosFemeninos",
     "examples": [
-      "female",
-      "woman",
-      "girl",
-      "sister",
-      "she",
-      "her",
-      "hers",
-      "daughter"
+      "femenino",
+      "mujer",
+      "niña",
+      "hermana",
+      "ella",
+      "la",
+      "suyo",
+      "hija"
     ]
   },
   "attr1": {
-    "category": "Career",
+    "category": "Carrera",
     "examples": [
-      "executive",
-      "management",
-      "professional",
-      "corporation",
-      "salary",
-      "office",
-      "business",
-      "career"
+      "ejecutivo",
+      "gestión",
+      "profesional",
+      "corporación",
+      "salario",
+      "oficina",
+      "negocio",
+      "carrera"
     ]
   },
   "attr2": {
-    "category": "Family",
+    "category": "Familia",
     "examples": [
-      "home",
-      "parents",
-      "children",
-      "family",
-      "cousins",
-      "marriage",
-      "wedding",
-      "relatives"
+      "hogar",
+      "padres",
+      "niños",
+      "familia",
+      "primos",
+      "matrimonio",
+      "boda",
+      "parientes"
     ]
   }
 }

@@ -1,48 +1,48 @@
 {
   "targ1": {
-    "category": "MentalDisease",
+    "category": "EnfermedadMental",
     "examples": [
-      "sad",
-      "hopeless",
-      "gloomy",
-      "tearful",
+      "triste",
+      "desesperado",
+      "sombrío",
+      "lloroso",
       "miserable",
-      "depressed"
+      "deprimido"
     ]
   },
   "targ2": {
-    "category": "PhysicalDisease",
+    "category": "EnfermedadFísica",
     "examples": [
-      "sick",
-      "illness",
+      "enfermo",
+      "enfermedad",
       "influenza",
-      "disease",
+      "enfermedad",
       "virus",
-      "cancer"
+      "cáncer"
     ]
   },
   "attr1": {
-    "category": "Temporary",
+    "category": "Temporal",
     "examples": [
-      "impermanent",
-      "unstable",
+      "impermanente",
+      "inestable",
       "variable",
-      "fleeting",
-      "short-term",
-      "brief",
-      "occasional"
+      "efímero",
+      "corto plazo",
+      "breve",
+      "ocasional"
     ]
   },
   "attr2": {
-    "category": "Permanent",
+    "category": "Permanente",
     "examples": [
-      "stable",
-      "always",
-      "constant",
-      "persistent",
-      "chronic",
-      "prolonged",
-      "forever"
+      "estable",
+      "siempre",
+      "constante",
+      "persistente",
+      "crónico",
+      "prolongado",
+      "para siempre"
     ]
   }
 }

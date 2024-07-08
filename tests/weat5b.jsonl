@@ -1,68 +1,68 @@
 {
   "targ1": {
-    "category": "EuropeanAmericanTerms",
+    "category": "TérminosEstadounidensesEuropeos",
     "examples": [
-      "European American",
-      "British American",
-      "German American",
-      "Polish American",
-      "Russian American",
-      "Ukrainian American",
-      "Italian American",
-      "Portuguese American",
-      "French American",
-      "Romanian American",
-      "Greek American",
-      "Irish American",
-      "Spanish American",
-      "Bosnian American",
-      "Albanian American"
+      "Estadounidense Europeo",
+      "Estadounidense Británico",
+      "Estadounidense Alemán",
+      "Estadounidense Polaco",
+      "Estadounidense Ruso",
+      "Estadounidense Ucraniano",
+      "Estadounidense Italiano",
+      "Estadounidense Portugués",
+      "Estadounidense Francés",
+      "Estadounidense Rumano",
+      "Estadounidense Griego",
+      "Estadounidense Irlandés",
+      "Estadounidense Español",
+      "Estadounidense Bosnio",
+      "Estadounidense Albanés"
     ]
   },
   "targ2": {
-    "category": "AfricanAmericanTerms",
+    "category": "TérminosEstadounidensesAfricanos",
     "examples": [
-      "African American",
-      "Nigerian American",
-      "Ethiopian American",
-      "Egyptian American",
-      "Ghanaian American",
-      "Kenyan American",
-      "South African American",
-      "Somali American",
-      "Liberian American",
-      "Moroccan American",
-      "Cameroonian American",
-      "Cape Verdean American",
-      "Eritrean American",
-      "Sudanese American",
-      "Sierra Leonean American"
+      "Estadounidense Africano",
+      "Estadounidense Nigeriano",
+      "Estadounidense Etíope",
+      "Estadounidense Egipcio",
+      "Estadounidense Ghanés",
+      "Estadounidense Keniano",
+      "Estadounidense Sudafricano",
+      "Estadounidense Somalí",
+      "Estadounidense Liberiano",
+      "Estadounidense Marroquí",
+      "Estadounidense Camerunés",
+      "Estadounidense Caboverdiano",
+      "Estadounidense Eritreo",
+      "Estadounidense Sudanés",
+      "Estadounidense de Sierra Leona"
     ]
   },
   "attr1": {
-    "category": "Pleasant",
+    "category": "Agradable",
     "examples": [
-      "joy",
-      "love",
-      "peace",
-      "wonderful",
-      "pleasure",
-      "friend",
-      "laughter",
-      "happy"
+      "alegría",
+      "amor",
+      "paz",
+      "maravilloso",
+      "placer",
+      "amigo",
+      "risa",
+      "feliz"
     ]
   },
   "attr2": {
-    "category": "Unpleasant",
+    "category": "Desagradable",
     "examples": [
-      "agony",
+      "agonía",
       "terrible",
       "horrible",
-      "nasty",
-      "evil",
-      "war",
-      "awful",
-      "failure"
+      "asqueroso",
+      "malvado",
+      "guerra",
+      "horrible",
+      "fracaso"
     ]
   }
 }

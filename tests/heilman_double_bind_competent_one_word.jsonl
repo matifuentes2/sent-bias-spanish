@@ -1,6 +1,6 @@
 {
   "targ1": {
-    "category": "Male",
+    "category": "Masculino",
     "examples": [
       "John",
       "Paul",
@@ -13,7 +13,7 @@
     ]
   },
   "targ2": {
-    "category": "Female",
+    "category": "Femenino",
     "examples": [
       "Amy",
       "Joan",
@@ -26,33 +26,33 @@
     ]
   },
   "attr1": {
-    "category": "CompetentAchievementOriented",
+    "category": "Competente y Orientado al Logro",
     "examples": [
-      "competent",
-      "productive",
-      "effective",
-      "ambitious",
-      "active",
-      "decisive",
-      "strong",
-      "tough",
-      "bold",
-      "assertive"
+      "competente",
+      "productivo",
+      "efectivo",
+      "ambicioso",
+      "activo",
+      "decisivo",
+      "fuerte",
+      "duro",
+      "audaz",
+      "asertivo"
     ]
   },
   "attr2": {
-    "category": "IncompetentNotAchievementOriented",
+    "category": "Incompetente y No Orientado al Logro",
     "examples": [
-      "incompetent",
-      "unproductive",
-      "ineffective",
-      "unambitious",
-      "passive",
-      "indecisive",
-      "weak",
-      "gentle",
-      "timid",
-      "unassertive"
+      "incompetente",
+      "improductivo",
+      "inefectivo",
+      "poco ambicioso",
+      "pasivo",
+      "indeciso",
+      "débil",
+      "gentil",
+      "tímido",
+      "inasertivo"
     ]
   }
 }

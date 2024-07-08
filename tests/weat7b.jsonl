@@ -1,32 +1,32 @@
 {
   "targ1": {
-    "category": "Math",
+    "category": "Matemáticas",
     "examples": [
-      "math",
-      "algebra",
-      "geometry",
-      "calculus",
-      "equations",
-      "computation",
-      "numbers",
-      "addition"
+      "matemáticas",
+      "álgebra",
+      "geometría",
+      "cálculo",
+      "ecuaciones",
+      "computación",
+      "números",
+      "adición"
     ]
   },
   "targ2": {
-    "category": "Arts",
+    "category": "Artes",
     "examples": [
-      "poetry",
-      "art",
-      "dance",
-      "literature",
-      "novel",
-      "symphony",
+      "poesía",
+      "arte",
+      "danza",
+      "literatura",
+      "novela",
+      "sinfonía",
       "drama",
-      "sculpture"
+      "escultura"
     ]
   },
   "attr1": {
-    "category": "MaleNames",
+    "category": "NombresMasculinos",
     "examples": [
       "John",
       "Paul",
@@ -39,7 +39,7 @@
     ]
   },
   "attr2": {
-    "category": "FemaleNames",
+    "category": "NombresFemeninos",
     "examples": [
       "Amy",
       "Joan",

@@ -1,6 +1,6 @@
 {
   "targ1": {
-    "category": "EuropeanAmericanNames",
+    "category": "NombresEstadounidensesEuropeos",
     "examples": [
       "Brad",
       "Brendan",
@@ -21,7 +21,7 @@
     ]
   },
   "targ2": {
-    "category": "AfricanAmericanNames",
+    "category": "NombresEstadounidensesAfricanos",
     "examples": [
       "Darnell",
       "Hakim",
@@ -42,29 +42,29 @@
     ]
   },
   "attr1": {
-    "category": "Pleasant",
+    "category": "Agradable",
     "examples": [
-      "joy",
-      "love",
-      "peace",
-      "wonderful",
-      "pleasure",
-      "friend",
-      "laughter",
-      "happy"
+      "alegría",
+      "amor",
+      "paz",
+      "maravilloso",
+      "placer",
+      "amigo",
+      "risa",
+      "feliz"
     ]
   },
   "attr2": {
-    "category": "Unpleasant",
+    "category": "Desagradable",
     "examples": [
-      "agony",
+      "agonía",
       "terrible",
       "horrible",
-      "nasty",
-      "evil",
-      "war",
-      "awful",
-      "failure"
+      "asqueroso",
+      "malvado",
+      "guerra",
+      "horrible",
+      "fracaso"
     ]
   }
 }

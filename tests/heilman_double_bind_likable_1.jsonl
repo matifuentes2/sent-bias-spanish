@@ -1,54 +1,54 @@
 {
   "targ1": {
-    "category": "Male",
+    "category": "Masculino",
     "examples": [
-      "John is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Paul is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Mike is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Kevin is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Steve is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Greg is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Jeff is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Bill is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients."
+      "John es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizado con las tendencias de la industria y generar nuevos clientes.",
+      "Paul es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizado con las tendencias de la industria y generar nuevos clientes.",
+      "Mike es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizado con las tendencias de la industria y generar nuevos clientes.",
+      "Kevin es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizado con las tendencias de la industria y generar nuevos clientes.",
+      "Steve es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizado con las tendencias de la industria y generar nuevos clientes.",
+      "Greg es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizado con las tendencias de la industria y generar nuevos clientes.",
+      "Jeff es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizado con las tendencias de la industria y generar nuevos clientes.",
+      "Bill es el vicepresidente asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizado con las tendencias de la industria y generar nuevos clientes."
     ]
   },
   "targ2": {
-    "category": "Female",
+    "category": "Femenino",
     "examples": [
-      "Amy is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Joan is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Lisa is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Sarah is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Diana is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Kate is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Ann is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
-      "Donna is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients."
+      "Amy es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizada con las tendencias de la industria y generar nuevos clientes.",
+      "Joan es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizada con las tendencias de la industria y generar nuevos clientes.",
+      "Lisa es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizada con las tendencias de la industria y generar nuevos clientes.",
+      "Sarah es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizada con las tendencias de la industria y generar nuevos clientes.",
+      "Diana es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizada con las tendencias de la industria y generar nuevos clientes.",
+      "Kate es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizada con las tendencias de la industria y generar nuevos clientes.",
+      "Ann es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizada con las tendencias de la industria y generar nuevos clientes.",
+      "Donna es la vicepresidenta asistente de ventas en una empresa de aeronaves, y está a cargo de entrenar y supervisar a ejecutivos junior, abrir nuevos mercados, mantenerse actualizada con las tendencias de la industria y generar nuevos clientes."
     ]
   },
   "attr1": {
-    "category": "LikableNotHostile",
+    "category": "AgradableNoHostil",
     "examples": [
-      "The assistant vice president is agreeable.",
-      "The assistant vice president is fair.",
-      "The assistant vice president is honest.",
-      "The assistant vice president is trustworthy.",
-      "The assistant vice president is selfless.",
-      "The assistant vice president is accommodating.",
-      "The assistant vice president is likable.",
-      "The assistant vice president is liked."
+      "El vicepresidente asistente es agradable.",
+      "El vicepresidente asistente es justo.",
+      "El vicepresidente asistente es honesto.",
+      "El vicepresidente asistente es confiable.",
+      "El vicepresidente asistente es desinteresado.",
+      "El vicepresidente asistente es complaciente.",
+      "El vicepresidente asistente es simpático.",
+      "El vicepresidente asistente es querido."
     ]
   },
   "attr2": {
-    "category": "UnlikableHostile",
+    "category": "AntipáticoHostil",
     "examples": [
-      "The assistant vice president is abrasive.",
-      "The assistant vice president is conniving.",
-      "The assistant vice president is manipulative.",
-      "The assistant vice president is dishonest.",
-      "The assistant vice president is selfish.",
-      "The assistant vice president is pushy.",
-      "The assistant vice president is unlikable.",
-      "The assistant vice president is unliked."
+      "El vicepresidente asistente es abrasivo.",
+      "El vicepresidente asistente es intrigante.",
+      "El vicepresidente asistente es manipulador.",
+      "El vicepresidente asistente es deshonesto.",
+      "El vicepresidente asistente es egoísta.",
+      "El vicepresidente asistente es insistente.",
+      "El vicepresidente asistente es antipático.",
+      "El vicepresidente asistente es rechazado."
     ]
   }
 }

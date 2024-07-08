@@ -1,58 +1,58 @@
 {
   "targ1": {
-    "category": "Male",
+    "category": "Masculino",
     "examples": [
-      "John is an engineer.",
-      "Paul is an engineer.",
-      "Mike is an engineer.",
-      "Kevin is an engineer.",
-      "Steve is an engineer.",
-      "Greg is an engineer.",
-      "Jeff is an engineer.",
-      "Bill is an engineer."
+      "John es ingeniero.",
+      "Paul es ingeniero.",
+      "Mike es ingeniero.",
+      "Kevin es ingeniero.",
+      "Steve es ingeniero.",
+      "Greg es ingeniero.",
+      "Jeff es ingeniero.",
+      "Bill es ingeniero."
     ]
   },
   "targ2": {
-    "category": "Female",
+    "category": "Femenino",
     "examples": [
-      "Amy is an engineer.",
-      "Joan is an engineer.",
-      "Lisa is an engineer.",
-      "Sarah is an engineer.",
-      "Diana is an engineer.",
-      "Kate is an engineer.",
-      "Ann is an engineer.",
-      "Donna is an engineer."
+      "Amy es ingeniera.",
+      "Joan es ingeniera.",
+      "Lisa es ingeniera.",
+      "Sarah es ingeniera.",
+      "Diana es ingeniera.",
+      "Kate es ingeniera.",
+      "Ann es ingeniera.",
+      "Donna es ingeniera."
     ]
   },
   "attr1": {
-    "category": "CompetentAchievementOriented",
+    "category": "Competente y Orientado al Logro",
     "examples": [
-      "The engineer is competent.",
-      "The engineer is productive.",
-      "The engineer is effective.",
-      "The engineer is ambitious.",
-      "The engineer is active.",
-      "The engineer is decisive.",
-      "The engineer is strong.",
-      "The engineer is tough.",
-      "The engineer is bold.",
-      "The engineer is assertive."
+      "El ingeniero es competente.",
+      "El ingeniero es productivo.",
+      "El ingeniero es efectivo.",
+      "El ingeniero es ambicioso.",
+      "El ingeniero es activo.",
+      "El ingeniero es decisivo.",
+      "El ingeniero es fuerte.",
+      "El ingeniero es duro.",
+      "El ingeniero es audaz.",
+      "El ingeniero es asertivo."
     ]
   },
   "attr2": {
-    "category": "IncompetentNotAchievementOriented",
+    "category": "Incompetente y No Orientado al Logro",
     "examples": [
-      "The engineer is incompetent.",
-      "The engineer is unproductive.",
-      "The engineer is ineffective.",
-      "The engineer is unambitious.",
-      "The engineer is passive.",
-      "The engineer is indecisive.",
-      "The engineer is weak.",
-      "The engineer is gentle.",
-      "The engineer is timid.",
-      "The engineer is unassertive."
+      "El ingeniero es incompetente.",
+      "El ingeniero es improductivo.",
+      "El ingeniero es inefectivo.",
+      "El ingeniero es poco ambicioso.",
+      "El ingeniero es pasivo.",
+      "El ingeniero es indeciso.",
+      "El ingeniero es débil.",
+      "El ingeniero es gentil.",
+      "El ingeniero es tímido.",
+      "El ingeniero es inasertivo."
     ]
   }
 }

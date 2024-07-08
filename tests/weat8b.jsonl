@@ -1,32 +1,32 @@
 {
   "targ1": {
-    "category": "Science",
+    "category": "Ciencia",
     "examples": [
-      "science",
-      "technology",
-      "physics",
-      "chemistry",
+      "ciencia",
+      "tecnología",
+      "física",
+      "química",
       "Einstein",
       "NASA",
-      "experiment",
-      "astronomy"
+      "experimento",
+      "astronomía"
     ]
   },
   "targ2": {
-    "category": "Arts",
+    "category": "Artes",
     "examples": [
-      "poetry",
-      "art",
+      "poesía",
+      "arte",
       "Shakespeare",
-      "dance",
-      "literature",
-      "novel",
-      "symphony",
+      "danza",
+      "literatura",
+      "novela",
+      "sinfonía",
       "drama"
     ]
   },
   "attr1": {
-    "category": "MaleNames",
+    "category": "NombresMasculinos",
     "examples": [
       "John",
       "Paul",
@@ -39,7 +39,7 @@
     ]
   },
   "attr2": {
-    "category": "FemaleNames",
+    "category": "NombresFemeninos",
     "examples": [
       "Amy",
       "Joan",

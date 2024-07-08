@@ -1,54 +1,54 @@
 {
   "targ1": {
-    "category": "Science",
+    "category": "Ciencia",
     "examples": [
-      "science",
-      "technology",
-      "physics",
-      "chemistry",
+      "ciencia",
+      "tecnología",
+      "física",
+      "química",
       "Einstein",
       "NASA",
-      "experiment",
-      "astronomy"
+      "experimento",
+      "astronomía"
     ]
   },
   "targ2": {
-    "category": "Arts",
+    "category": "Artes",
     "examples": [
-      "poetry",
-      "art",
+      "poesía",
+      "arte",
       "Shakespeare",
-      "dance",
-      "literature",
-      "novel",
-      "symphony",
+      "danza",
+      "literatura",
+      "novela",
+      "sinfonía",
       "drama"
     ]
   },
   "attr1": {
-    "category": "MaleTerms",
+    "category": "TérminosMasculinos",
     "examples": [
-      "brother",
-      "father",
-      "uncle",
-      "grandfather",
-      "son",
-      "he",
-      "his",
-      "him"
+      "hermano",
+      "padre",
+      "tío",
+      "abuelo",
+      "hijo",
+      "él",
+      "su",
+      "lo"
     ]
   },
   "attr2": {
-    "category": "FemaleTerms",
+    "category": "TérminosFemeninos",
     "examples": [
-      "sister",
-      "mother",
-      "aunt",
-      "grandmother",
-      "daughter",
-      "she",
-      "hers",
-      "her"
+      "hermana",
+      "madre",
+      "tía",
+      "abuela",
+      "hija",
+      "ella",
+      "suyo",
+      "la"
     ]
   }
 }

@@ -1,54 +1,54 @@
 {
   "targ1": {
-    "category": "MaleNames",
+    "category": "NombresMasculinos",
     "examples": [
-      "John",
-      "Paul",
-      "Mike",
+      "Juan",
+      "Pablo",
+      "Miguel",
       "Kevin",
-      "Steve",
-      "Greg",
+      "Esteban",
+      "Gregorio",
       "Jeff",
-      "Bill"
+      "Guillermo"
     ]
   },
   "targ2": {
-    "category": "FemaleNames",
+    "category": "NombresFemeninos",
     "examples": [
-      "Amy",
-      "Joan",
-      "Lisa",
-      "Sarah",
+      "Ana",
+      "Juana",
+      "Luisa",
+      "Sara",
       "Diana",
-      "Kate",
-      "Ann",
-      "Donna"
+      "Catalina",
+      "Ana",
+      "Dolores"
     ]
   },
   "attr1": {
-    "category": "Career",
+    "category": "Carrera",
     "examples": [
-      "executive",
-      "management",
-      "professional",
-      "corporation",
-      "salary",
-      "office",
-      "business",
-      "career"
+      "ejecutivo",
+      "gestión",
+      "profesional",
+      "corporación",
+      "salario",
+      "oficina",
+      "negocio",
+      "carrera"
     ]
   },
   "attr2": {
-    "category": "Family",
+    "category": "Familia",
     "examples": [
-      "home",
-      "parents",
-      "children",
-      "family",
-      "cousins",
-      "marriage",
-      "wedding",
-      "relatives"
+      "hogar",
+      "padres",
+      "niños",
+      "familia",
+      "primos",
+      "matrimonio",
+      "boda",
+      "parientes"
     ]
   }
 }

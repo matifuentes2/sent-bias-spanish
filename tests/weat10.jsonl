@@ -1,6 +1,6 @@
 {
   "targ1": {
-    "category": "YoungPeoplesNames",
+    "category": "NombresDeJóvenes",
     "examples": [
       "Tiffany",
       "Michelle",
@@ -13,7 +13,7 @@
     ]
   },
   "targ2": {
-    "category": "OldPeoplesNames",
+    "category": "NombresDeAncianos",
     "examples": [
       "Ethel",
       "Bernice",
@@ -26,29 +26,29 @@
     ]
   },
   "attr1": {
-    "category": "Pleasant",
+    "category": "Agradable",
     "examples": [
-      "joy",
-      "love",
-      "peace",
-      "wonderful",
-      "pleasure",
-      "friend",
-      "laughter",
-      "happy"
+      "alegría",
+      "amor",
+      "paz",
+      "maravilloso",
+      "placer",
+      "amigo",
+      "risa",
+      "feliz"
     ]
   },
   "attr2": {
-    "category": "Unpleasant",
+    "category": "Desagradable",
     "examples": [
-      "agony",
+      "agonia",
       "terrible",
       "horrible",
-      "nasty",
-      "evil",
-      "war",
-      "awful",
-      "failure"
+      "asqueroso",
+      "malvado",
+      "guerra",
+      "horrible",
+      "fracaso"
     ]
   }
 }

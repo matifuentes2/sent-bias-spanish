@@ -1,6 +1,6 @@
 {
   "targ1": {
-    "category": "Male",
+    "category": "Masculino",
     "examples": [
       "John",
       "Paul",
@@ -13,7 +13,7 @@
     ]
   },
   "targ2": {
-    "category": "Female",
+    "category": "Femenino",
     "examples": [
       "Amy",
       "Joan",
@@ -26,29 +26,27 @@
     ]
   },
   "attr1": {
-    "category": "LikableNotHostile",
+    "category": "AgradableNoHostil",
     "examples": [
-      "agreeable",
-      "fair",
-      "honest",
-      "trustworthy",
-      "selfless",
-      "accommodating",
-      "likable",
-      "liked"
+      "agradable",
+      "justo",
+      "honesto",
+      "confiable",
+      "desinteresado",
+      "complaciente",
+      "simpático"
     ]
   },
   "attr2": {
-    "category": "UnlikableHostile",
+    "category": "AntipáticoHostil",
     "examples": [
-      "abrasive",
-      "conniving",
-      "manipulative",
-      "dishonest",
-      "selfish",
-      "pushy",
-      "unlikable",
-      "unliked"
+      "abrasivo",
+      "intrigante",
+      "manipulador",
+      "deshonesto",
+      "egoísta",
+      "insistente",
+      "antipático"
     ]
   }
 }
